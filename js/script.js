@@ -1,3 +1,5 @@
+//task1
+//было трудно, но я не сдался!!!! 
 let bozor = [
     { 
         brand: "Ferrari F430 Spider",
